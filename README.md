@@ -8,9 +8,12 @@
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
+1.
 Build out a Shopify Hydrogen Store but focus on the Product Collection pages and implement a API driven price comparison tool fetches similar prices for this product competitors ar charging and if the merchant price is lower then show the comparison else dont show it. 
 This will be dependent on the API source however I could make up some dumbie data. 
 
+
+2. 
 (not sure if possible - will require more discovery) My other idea was to create a crypto currency app which scans the Binance Smart block chain for your metamask wallet address and pulls in the transaction activity of your metamask wallet address.
 This app aim to help find information to better fill out your taxes and costs associated with token purchases. these costs associated with purchases are tax deductable items in Australia.  
 Feature list

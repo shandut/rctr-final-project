@@ -36,7 +36,12 @@ PostMVP
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
-- [add link to your visual wireframes]()
+Idea 1 - https://github.com/shandut/rctr-final-project/blob/main/wireframes%20-%20Project%20idea%201%20-%20Shopify%20Hydrogen.png
+
+Idea 2 -  https://github.com/shandut/rctr-final-project/blob/main/wireframes%20-%20Project%20idea%202%20-%20Binance%20Smart%20Chain%20Transaction%20Fees%201%20of%202.png
+
+https://github.com/shandut/rctr-final-project/blob/main/wireframes%20-Project%20idea%202%20-%20Binance%20Smart%20Chain%20Transaction%20Fees%202%20of%202.png
+
 - [add link to your react architecture]()
 
 

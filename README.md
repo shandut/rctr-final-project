@@ -2,11 +2,31 @@
 
 ## Project Links
 
-- [CodeSandbox Link]()
+- [CodeSandbox Link]( - Nothing Yet )
 
 ## Project Description
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+
+Build out a Shopify Hydrogen Store but focus on the Product Collection pages and implement a API driven price comparison tool fetches similar prices for this product competitors ar charging and if the merchant price is lower then show the comparison else dont show it. 
+This will be dependent on the API source however I could make up some dumbie data. 
+
+(not sure if possible - will require more discovery) My other idea was to create a crypto currency app which scans the Binance Smart block chain for your metamask wallet address and pulls in the transaction activity of your metamask wallet address.
+This app aim to help find information to better fill out your taxes and costs associated with token purchases. these costs associated with purchases are tax deductable items in Australia.  
+Feature list
+ - Search wallet address on the Binance Smart Chain 
+ - Sort via date
+ - Sum up all transaction fees/costs over different time frames(monthly or weekly) (hopefully help with Taxes)
+ - Maybe also do some sort of analysis if you sold coins for a profit or loss. 
+
+PostMVP
+ - Look at Autostaking protocals to see the growth of coins overtime(I am not sure if this data is on the Binance Smart Chain transactions log - will need to confirm.)
+ 
+ Resources 
+ - https://bscscan.com/apis 
+ - https://docs.bscscan.com/api-endpoints/accounts
+ - https://docs.bscscan.com/api-endpoints/tokens
+ - https://docs.bscscan.com/api-endpoints/stats
 
 
 ## Wireframes

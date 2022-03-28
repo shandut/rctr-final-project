@@ -17,13 +17,16 @@ This will be dependent on the API source however I could make up some dumbie dat
 (not sure if possible - will require more discovery) My other idea was to create a crypto currency app which scans the Binance Smart block chain for your metamask wallet address and pulls in the transaction activity of your metamask wallet address.
 This app aim to help find information to better fill out your taxes and costs associated with token purchases. these costs associated with purchases are tax deductable items in Australia.  
 Feature list
- - Search wallet address on the Binance Smart Chain 
- - Sort via date
+ - Ability for user to search wallet address on the Binance Smart Chain 
+ - Ability for user to sort via date
  - Sum up all transaction fees/costs over different time frames(monthly or weekly) (hopefully help with Taxes)
- - Maybe also do some sort of analysis if you sold coins for a profit or loss. 
-
+ - Ability for user to export Transaction log to CSV 
+ 
 PostMVP
+ -  Maybe also do some sort of analysis if you sold coins for a profit or loss. 
  - Look at Autostaking protocals to see the growth of coins overtime(I am not sure if this data is on the Binance Smart Chain transactions log - will need to confirm.)
+ - Click on transaction ID to explore more details about the transaction
+ 
  
  Resources 
  - https://bscscan.com/apis 

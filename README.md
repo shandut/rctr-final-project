@@ -2,7 +2,7 @@
 
 ## Project Links
 
-- [CodeSandbox - Project link](https://codesandbox.io/s/final-project-shannon-d-dzgqzu)
+- [CodeSandbox - Project link](https://codesandbox.io/s/final-project-shannon-d-v0-02-4oy0se)
 
 ## Project Description
 
@@ -68,13 +68,14 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | Component | Description | 
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router| 
-| Header | This will render the header include the nav (Home| About | Finance Tracker | Contact ) | 
-| HERO | This will render on the Landing Page|
+| Nav | This will render the header include the nav (Home| About | Finance Tracker | Contact ) | 
+| Home| This will render on the Landing Page|
 | Content | This will render on the About Us and Contact pages|
-| Search | This will render on the Finacial Tracker Page| 
-| Finance Grid | This will render on the Finacial Tracker Page|
-| Transaction | This will render on the Finance Grid|
-| Footer | This will render the header include the nav | 
+| Form | This will render on the Finacial Tracker Page to provide search capability| 
+| HowTo | This will render on a a popup on how to use the app| 
+| Tracker | This will render on the Finacial Tracker Page, which is the table of transactions|
+| Transaction | This will render on within Tracker on the Finacial Tracker Page|
+| Nav | This will render the header include the nav | 
 
 
 ## Additional Libraries
